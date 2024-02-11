@@ -20,7 +20,7 @@
 - :octocat: In my free time I develop opensource projects.
 
 
-### ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50"/>
@@ -38,6 +38,9 @@
 
 
 <div id="header" align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eugenekochetov02&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenekochetov02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Eugenekochetov02&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenekochetov02&layout=compact" />
+</a>
 </div>
